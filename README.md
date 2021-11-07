@@ -42,7 +42,7 @@ After creating the database, importing data, and running the analysis, here are 
 
 [Retiring Titles](Data/retiring_titles.csv)
 
-[Mentorship Candidates](Data/mentorship_eligibility.csv)
+[Mentorship Candidates](Data/mentorship_eligibilty.csv)
 
 
 ## Summary 
